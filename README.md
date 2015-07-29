@@ -1,8 +1,4 @@
----
-tags: syntax errors, errors, basics
-language: ruby
-resources: 2
----
+
 
 # Syntax Error
 
