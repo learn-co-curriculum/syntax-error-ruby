@@ -1,8 +1,11 @@
 
-
 # Syntax Error
 
+
+
 ## Background
+
+hi
 
 Syntax error pretty common, even for experienced developers, so it's important that you learn how to find and fix them.
 
