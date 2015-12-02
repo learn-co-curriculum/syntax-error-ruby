@@ -17,3 +17,5 @@ The file `syntax_error.rb` has, you guessed it, one or many syntax errors. Your 
   * If not, manually run the syntax_error.rb file with: `ruby syntax_error.rb`. The error(s) that get returned will give you line numbers so you know where to look.
 3. After you've fixed all the errors, remember to submit a pull request!
 
+
+<a href='https://learn.co/lessons/syntax-error-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
