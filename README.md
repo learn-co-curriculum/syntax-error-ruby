@@ -18,4 +18,4 @@ The file `syntax_error.rb` has, you guessed it, one or many syntax errors. Your 
 3. After you've fixed all the errors, remember to submit a pull request!
 
 
-<a href='https://learn.co/lessons/syntax-error-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/syntax-error-ruby' title='Syntax Error'>Syntax Error</a> on Learn.co and start learning to code for free.</p>
